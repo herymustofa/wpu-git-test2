@@ -9,5 +9,8 @@
 <body>
     <h1>coba git remote</h1>
     <p>paragraff 2</p>
+    <ul>
+        <li>tambah ul</li>
+    </ul>
 </body>
 </html>
