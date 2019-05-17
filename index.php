@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>coba git remote</h1>
+    <p>paragraff 2</p>
 </body>
 </html>
